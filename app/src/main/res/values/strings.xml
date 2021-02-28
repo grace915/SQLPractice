@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQLPractice</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="orderby_list">
+        <item>이름</item>
+        <item>나이</item>
+        <item>별명</item>
+    </string-array>
+
+</resources>
